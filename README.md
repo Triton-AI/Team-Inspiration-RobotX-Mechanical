@@ -1,1 +1,1 @@
-"# Team-Inspiration-RobotX-Mechanical" 
+# Team-Inspiration-RobotX-Mechanical
